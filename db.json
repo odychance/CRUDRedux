@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye",
+      "precio": "800",
+      "id": 9
+    },
+    {
+      "nombre": "Special Things",
+      "precio": "100",
+      "id": 10
+    },
+    {
+      "nombre": "something special 10º",
+      "precio": "099990",
+      "id": 11
+    },
+    {
+      "nombre": "tequila",
+      "precio": 8780,
+      "id": 12
+    },
+    {
+      "nombre": "ody",
+      "precio": 100,
+      "id": 13
+    }
+  ]
+}
